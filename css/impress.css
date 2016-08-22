@@ -5,8 +5,7 @@
 }
 .loading{
 	top: 0;
-	background-color: #432;
-	z-index: 9999;
+	background-color: #432	z-index: 9999;
 	height: 5px;
 	position:fixed;
 
@@ -20,7 +19,7 @@ body {
 #top_header {
 	background: transparent;
 	height: 50px;
-	border-top: 5px solid #D00505;
+	border-top: 5px solid #fff;
 	margin: auto;
 }
 #top_header .resume_name {
@@ -169,7 +168,7 @@ body {
 	margin-right: 20px;
 }
 .panel .about_me_more .emphasis {
-	color: #a03939;
+	color: #fff;
 }
 .panel .about_me_more .emphasis:hover {
 	background-color: #40835e;
@@ -260,7 +259,7 @@ body {
 	margin: 150px auto;
 	font-size: 50px;
 	font-family: "Arvo";
-	color: #000;
+	color: #fff;
 	text-align: center;
 	font-weight: bold;
 }
